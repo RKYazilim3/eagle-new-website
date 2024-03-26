@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Eagle Project" />
         <p className="description">
-          Kalitede Asla Tesadüf Olmaz!
+          Kalitede Asla Tesadüfe Yer Olmaz!
         </p>
       </main>
 
