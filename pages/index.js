@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Eagle Project" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Kalitede Asla Tesadüf Olmaz!
         </p>
       </main>
 
